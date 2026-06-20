@@ -28,3 +28,4 @@ else
   done
 fi# feat: add database query structure
 # fix: handle trailing zeros format
+# refactor: optimize psql parameters
